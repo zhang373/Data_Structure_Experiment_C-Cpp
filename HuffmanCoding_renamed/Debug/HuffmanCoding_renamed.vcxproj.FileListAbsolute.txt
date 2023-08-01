@@ -1,0 +1,2 @@
+E:\数据结构\HuffmanCoding_renamed\Debug\HuffmanCoding_renamed.exe
+E:\数据结构\HuffmanCoding_renamed\Debug\HuffmanCoding_renamed.pdb

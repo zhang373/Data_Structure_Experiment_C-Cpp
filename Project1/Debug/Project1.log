@@ -1,0 +1,4 @@
+﻿  源.cpp
+E:\数据结构\Project1\源.cpp(117,20): warning C4018: “<”: 有符号/无符号不匹配
+E:\数据结构\Project1\源.cpp(127,20): warning C4018: “<”: 有符号/无符号不匹配
+  Project1.vcxproj -> E:\数据结构\Project1\Debug\Project1.exe

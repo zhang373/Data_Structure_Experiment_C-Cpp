@@ -1,0 +1,3 @@
+﻿  source.cpp
+E:\数据结构\HuffmanCoding_renamed\source.cpp(179): warning C4715: “Create_Added_BeTree_Node”: 不是所有的控件路径都返回值
+  HuffmanCoding_renamed.vcxproj -> E:\数据结构\HuffmanCoding_renamed\Debug\HuffmanCoding_renamed.exe
